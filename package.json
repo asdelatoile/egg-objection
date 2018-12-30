@@ -1,6 +1,6 @@
 {
   "name": "egg-objection",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Egg Objection Plugin",
   "eggPlugin": {
     "name": "objection"
